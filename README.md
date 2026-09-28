@@ -61,6 +61,11 @@ The dataset contains website traffic records for the selected analysis period.
 | Excel/CSV | Data source |
 
 ---
+---
+## 📊 Dashboard Preview
+
+![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20Dashboard.png)
+![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20-%2015%20Days%20Forecast.png)
 
 ## 🔄 Project Workflow
 
@@ -78,9 +83,4 @@ Raw Website Traffic Data
  Interactive Dashboard
           ↓
  Business Insights
----
-## 📊 Dashboard Preview
-
-![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20Dashboard.png)
-![Super Store Sales Dashboard](https://github.com/Anamika-Prajapat1535/Syntecxhub/blob/main/Super%20Store%20Sales%20-%2015%20Days%20Forecast.png)
 
