@@ -1,5 +1,4 @@
 # Syntecxhub_Website_Traffic_Analysis
-# Website Traffic Analysis Dashboard
 
 ## 📊 Project Overview
 
@@ -64,7 +63,7 @@ The dataset contains website traffic records for the selected analysis period.
 ---
 ## 📊 Dashboard Preview
 
-![Website_](https://github.com/Anamika-Prajapat1535/Syntecxhub_Website_Traffic_Analysis/blob/main/website_traffic_analysis.png)
+![Website_Traffic_Analysis](https://github.com/Anamika-Prajapat1535/Syntecxhub_Website_Traffic_Analysis/blob/main/website_traffic_analysis.png)
 
 ## 🔄 Project Workflow
 
